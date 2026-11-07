@@ -35,9 +35,6 @@ This project documents the setup of a cybersecurity testing lab environment usin
 - Enabled bidirectional clipboard and drag and drop.
 - Created a virtual machine snapshot.
 
-## Screenshots
-Screenshots documenting the lab configuration and testing are available in the `Screenshots` folder.
-
 ## Learning Outcomes
 - Understanding virtualization and virtual machines.
 - Configuring NAT networking.
